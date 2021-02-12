@@ -1,0 +1,37 @@
+.contenedor{
+    background-color: #33434d;
+    padding: 8vh;
+}
+h2, p{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 3vh;
+}
+h3{
+    text-align: center;
+    color:  #809ead;
+}
+form{
+    
+    color:#f6f5f5;
+}
+img{
+    max-width: 60%;
+    margin-top: 3em;
+}
+button{
+    margin-top: 2em;
+}
+.info{
+    margin-top: 3em;
+    
+}
+h3{
+    text-align: center;
+    color:  #809ead;
+}
+@media (max-width: 991.98px) { 
+    img{
+        margin-top: 8em;
+    }
+}

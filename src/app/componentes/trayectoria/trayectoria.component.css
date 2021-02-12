@@ -1,0 +1,17 @@
+.about{
+    background: rgb(29,228,232);
+    background: linear-gradient(90deg, rgba(29,228,232,1) 1%, rgba(0,167,157,1) 47%, rgba(0,144,167,1) 95%); 
+    margin-top:10vh;
+    padding: 60px;
+}
+h2, p{
+    color: #ffffff;
+    text-align: center;
+}
+p{
+    padding: 10px;
+}
+a{
+    color: #fdffbc;
+    font-weight:bolder;
+}

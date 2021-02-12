@@ -1,0 +1,32 @@
+.secciones{
+    text-align: center;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+}
+.hero div{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80vh;
+    width: 100%;
+    background-image: url('../../../assets/image/helloImg.jpg');
+    background-position:  center  center;
+    background-size: cover;
+    background-repeat:  no-repeat;
+}
+p{ 
+    padding:1em;
+    margin-top: 4.5em;
+    border-radius: 1em;
+    background-color: #eeeeee;
+    opacity: 0.8;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #3a454d;
+    font-style: italic; 
+    font-weight: bold;
+    font-size: 20px;
+}           

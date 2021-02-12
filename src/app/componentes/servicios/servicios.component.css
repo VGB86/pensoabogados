@@ -1,0 +1,28 @@
+#servicios{
+    text-align: center;
+} 
+h2{
+    text-align: center;
+    color: #03506f;
+    padding: 1em;
+    margin-top: 8vh;   
+} 
+h3{
+    text-align: center;
+    margin: 1em;
+    color: #03506f;
+    padding: 1em;   
+}
+h5{
+    font-weight: bold;
+    color: #263238;
+}
+img{
+    max-width: 60%;
+}
+
+.card{
+    margin:auto;
+    background-color:#f6f5f5;
+    margin-top: 10vh;
+}

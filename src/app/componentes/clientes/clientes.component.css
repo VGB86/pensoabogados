@@ -1,0 +1,61 @@
+h2{
+    text-align: center;
+    margin-top: 10vh;
+}
+.cliente{
+    padding: 2em;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+    margin-left: 5vh;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+.cliente:hover{
+    box-shadow: 0px 0px 12px grey;	
+}
+.marcona{
+    background: #9B2232;
+}
+.insight {
+    background: #eeeeee;
+}
+.fresenius{
+    border-color: black;
+    margin-left: 3vh;
+}
+
+@media (max-width: 575.98px) {
+    
+    .clientes{
+        margin-left:8vh ;
+    } 
+
+    img{
+        max-width: 60%;
+    } 
+}
+@media (max-width: 767.98px) { 
+
+    .clientes{
+        margin-left:1vh ;
+    } 
+    img{
+        max-width: 90%;
+    }
+}
+
+
+@media (max-width: 991.98px) {
+    .clientes{
+        margin-left:1vh ;
+    } 
+    img{
+        max-width: 60%;
+    }
+}
+
+@media (max-width: 1399.98px) { 
+    img{
+        max-width: 80%;
+    }
+}
